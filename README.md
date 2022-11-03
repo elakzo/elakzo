@@ -1,9 +1,9 @@
-şu - 👋 Hi, I’m @elakzo
-- 👀 I’m interested in ... web tasarımı html, css, js 
+şu - 👋 Hi, I’m Ali ozkale
+- 👀 I’m interested in ... web design html, css 
 - 
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 elakzo/elakzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
